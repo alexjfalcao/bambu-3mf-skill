@@ -3,7 +3,7 @@ name: bambu-3mf
 description: Build 3D objects and export them as 3MF files that Bambu Studio opens with the right colors on the right parts — one closed solid per color, each bound to its own filament and extruder, at test / good / extrafine quality. Use when asked to create, model, or export a 3D object for printing, to write or fix a 3MF (multicolor or single color), when colors land on the wrong filament or come in grey in Bambu Studio / PrusaSlicer, when a slicer shows "The 3mf file has invalid config", when a Color Count or Import Model dialog is clustering colors, or when working with AMS / multi-material assignment.
 license: MIT
 metadata:
-  version: "1.1"
+  version: "1.1.0"
   author: Alex Falcão
   homepage: https://www.alexfalcao.pro.br
   verified_against: BambuStudio 02.08.02.61 (macOS); sliced on H2C and A1 profiles

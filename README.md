@@ -9,6 +9,12 @@ Ask Claude for a two-colour coaster, a nameplate, an inlay — or hand it a mesh
 have — and you get a `.3mf` that loads as a **project**, centred on the plate, sliceable
 as-is.
 
+![A three-colour coaster: purple base, gold rim and inner ring, twelve red petals](img/og.png)
+
+*Three colours, three closed solids, three extruders. Built with the skill's own
+primitives and rendered by [`img/render_cover.py`](img/render_cover.py) — that is the
+actual geometry, not a mock-up.*
+
 ---
 
 ## Why this exists
