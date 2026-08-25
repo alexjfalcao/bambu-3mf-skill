@@ -35,7 +35,13 @@ whatever filament happens to sit in that slot. And that project config has to be
 complaint and fail only at Slice time.
 
 Every rule in this skill came out of a real plate on a Bambu Lab H2C, not from reading the
-3MF spec. A few of the findings:
+3MF spec. They came out of building
+[Mandala Forge](https://github.com/alexjfalcao/mandala-forge), a browser generator whose
+entire output is a 3MF that has to open with every colour already on the right extruder —
+[it is live here](https://www.alexfalcao.pro.br/mandala/), if you want to see what the files
+these rules produce look like once they reach a plate.
+
+A few of the findings:
 
 - `<metadata name="Application">` must be `BambuStudio-<numeric version>`. Any other value
   and Bambu parses `project_settings.config` and throws it away.
