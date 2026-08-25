@@ -1,0 +1,23 @@
+{
+  "name": "bambu-3mf",
+  "description": "Build 3D objects and export them as 3MF files that Bambu Studio opens with the right colors on the right parts — one closed solid per color, each bound to its own filament and extruder.",
+  "version": "1.1.0",
+  "author": {
+    "name": "Alex Falcão",
+    "email": "alexjfalcao@gmail.com",
+    "url": "https://www.alexfalcao.pro.br"
+  },
+  "homepage": "https://github.com/alexjfalcao/bambu-3mf-skill",
+  "repository": "https://github.com/alexjfalcao/bambu-3mf-skill",
+  "license": "MIT",
+  "keywords": [
+    "3mf",
+    "bambu-studio",
+    "bambu-lab",
+    "3d-printing",
+    "multicolor",
+    "ams",
+    "prusaslicer",
+    "slicer"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "alexjfalcao",
+  "owner": {
+    "name": "Alex Falcão",
+    "email": "alexjfalcao@gmail.com",
+    "url": "https://www.alexfalcao.pro.br"
+  },
+  "metadata": {
+    "description": "Skills de Alex Falcão para Claude Code.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "bambu-3mf",
+      "source": "./",
+      "description": "Write 3MF files that Bambu Studio opens with the right colors on the right extruders: one closed solid per color, a complete project profile, and validation before you hand the file over.",
+      "version": "1.1.0",
+      "author": {
+        "name": "Alex Falcão",
+        "email": "alexjfalcao@gmail.com",
+        "url": "https://www.alexfalcao.pro.br"
+      },
+      "homepage": "https://github.com/alexjfalcao/bambu-3mf-skill",
+      "license": "MIT",
+      "category": "productivity",
+      "keywords": [
+        "3mf",
+        "bambu-studio",
+        "bambu-lab",
+        "3d-printing",
+        "multicolor",
+        "ams"
+      ]
+    }
+  ]
+}
